@@ -1,5 +1,3 @@
-Here is a more professional and SEO-friendly `README.md` you can use:
-
 ````md
 # use-color-scheme
 
