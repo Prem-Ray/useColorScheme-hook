@@ -6,12 +6,17 @@
   "type": "module",
   "keywords": [
     "react",
-    "react-hook",
-    "dark-mode",
-    "light-mode",
+    "hook",
+    "useColorScheme",
+    "dark mode",
+    "light mode",
     "theme",
-    "color-scheme",
-    "useColorScheme"
+    "ui",
+    "frontend",
+    "react hook",
+    "color scheme",
+    "responsive theme",
+    "system theme detection"
   ],
   "author": "Premanshu Ray",
   "license": "MIT",
