@@ -1,5 +1,5 @@
 {
-  "name": "@prem-ray/use-color-scheme",
+  "name": "@premanshuray/use-color-scheme",
   "version": "2.0.0",
   "description": "A lightweight React hook to detect and sync with system dark/light mode in real-time.",
   "main": "index.js",
