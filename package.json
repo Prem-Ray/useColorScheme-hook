@@ -1,5 +1,5 @@
 {
-  "name": "react-use-color-scheme-hook",
+  "name": "useColorScheme",
   "version": "1.0.0",
   "description": "A lightweight React hook to detect and sync with system dark/light mode in real-time.",
   "main": "index.js",
