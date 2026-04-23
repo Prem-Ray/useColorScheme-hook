@@ -1,6 +1,6 @@
 {
-  "name": "@premanshuray/use-color-scheme",
-  "version": "2.0.0",
+  "name": "use-color-scheme",
+  "version": "2.0.1",
   "description": "A lightweight React hook to detect and sync with system dark/light mode in real-time.",
   "main": "index.js",
   "type": "module",
